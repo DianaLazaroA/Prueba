@@ -22,33 +22,12 @@
         }
       }, 
       "icon": {
-        "url": "http://raw.githubusercontent.com/DianaLazaroA/Prueba/blob/master/758900-bigthumbnail.jpg"
+        "url": "http://raw.githubusercontent.com/DianaLazaroA/Prueba/master/758900-bigthumbnail.jpg"
       }, 
-      "id": 2, 
-      "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
-      }
-    }, 
-    {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
-      "anchor": {
-        "geolocation": {
-          "lat": 17.1774101, 
-          "lon": -96.826394
-        }
-      }, 
-      "id": 3, 
-      "text": {
-        "title": "This POI has an action"
+      
       }
     }
+   
   ], 
   "layer": ""
 }
