@@ -1,33 +1,22 @@
 {
-  "errorCode": 0, 
-  "errorString": "ok", 
+  "errorCode": 0,
+  "errorString": "ok",
   "hotspots": [
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.1774101, 
-          "lon": -96.826394
+          "lat": 17.0588362,
+          "lon": -96.7262371
         }
-      }, 
-       "icon": {
-        "url": "http://raw.githubusercontent.com/DianaLazaroA/Prueba/master/758900-bigthumbnail.jpg"
-      }, 
-      "id": 1, 
+      },
+      "icon": {
+        "url": "https://raw.githubusercontent.com/DianaLazaroA/Prueba/master/28343195_1773640109367393_1936338033_o.jpg"
+      },
+      "id": 1,
       "text": {
-        "title": "Prueba"
+        "title": "Prueba casa"
       }
-    }, 
-    
-    {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
-      
     }
-  ], 
+  ],
   "layer": ""
 }
